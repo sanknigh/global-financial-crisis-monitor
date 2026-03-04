@@ -1,0 +1,12 @@
+Macroeconomic Data (FRED API)
+          ↓
+     Data Pipeline
+          ↓
+   Feature Engineering
+          ↓
+      LSTM Model
+          ↓
+ Crisis Probability Output
+          ↓
+  Streamlit Dashboard
+  
